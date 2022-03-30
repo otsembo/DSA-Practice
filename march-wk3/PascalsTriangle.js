@@ -1,3 +1,5 @@
+// Q: https://www.codewars.com/kata/52945ce49bb38560fe0001d9
+
 function pascal(n){
 
     let triangle = [[1]];
