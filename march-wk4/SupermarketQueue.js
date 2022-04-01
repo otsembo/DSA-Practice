@@ -1,4 +1,4 @@
-// https://www.codewars.com/kata/57b06f90e298a7b53d000a86/solutions/javascript
+// https://www.codewars.com/kata/57b06f90e298a7b53d000a86
 
 function queueTime(customers, n) {
     if(n < 2){
