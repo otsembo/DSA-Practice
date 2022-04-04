@@ -22,9 +22,5 @@ function sqInRect(lng, wdth){
     }
 
     squares.push(shortest);
-
-
-
     return squares;
-
 }
